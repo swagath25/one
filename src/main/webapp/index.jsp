@@ -733,7 +733,7 @@
             },
             {
                 id: 'Vasanth clothing',
-                name: 'Clothing',
+                name: 'Vasanth Clothing',
                 icon: 'fa-tshirt'
             },
             {
@@ -742,13 +742,13 @@
                 icon: 'fa-headphones'
             },
             {
-                id: 'Maha footwear',
-                name: 'Footwear',
+                id: 'footwear',
+                name: 'Maha Footwear',
                 icon: 'fa-shoe-prints'
             },
             {
                 id: 'Praveen accessories',
-                name: 'Accessories',
+                name: 'Praveen Accessories',
                 icon: 'fa-watch'
             }
         ];
