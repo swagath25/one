@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Summer Collection — Premium Picks</h1>
+                <h1>Maha Super Collection — Premium Picks</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
@@ -723,31 +723,31 @@
         // --- Sample data (can be replaced by server-side data or API) ---
         const CATEGORIES = [{
                 id: 'phones',
-                name: 'Smartphones',
+                name: 'Mahaphones',
                 icon: 'fa-mobile-alt'
             },
             {
                 id: 'laptops',
-                name: 'Laptops',
+                name: 'Avanish Laptops',
                 icon: 'fa-laptop'
             },
             {
-                id: 'clothing',
+                id: 'Vasanth clothing',
                 name: 'Clothing',
                 icon: 'fa-tshirt'
             },
             {
                 id: 'gadgets',
-                name: 'Gadgets',
+                name: 'Swagath Gadgets',
                 icon: 'fa-headphones'
             },
             {
-                id: 'footwear',
+                id: 'Maha footwear',
                 name: 'Footwear',
                 icon: 'fa-shoe-prints'
             },
             {
-                id: 'accessories',
+                id: 'Praveen accessories',
                 name: 'Accessories',
                 icon: 'fa-watch'
             }
@@ -755,8 +755,8 @@
 
         const PRODUCTS = [{
                 id: 1,
-                title: 'iPhone 14 Pro Max',
-                price: 1099,
+                title: 'Munnar trip package  ',
+                price: 3000,
                 oldPrice: 1199,
                 rating: 5,
                 reviews: 128,
@@ -766,8 +766,8 @@
             },
             {
                 id: 2,
-                title: 'MacBook Pro 14"',
-                price: 1999,
+                title: 'Munnar trip package for Redington"',
+                price: 7000,
                 rating: 4,
                 reviews: 86,
                 img: 'https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=600&q=80',
@@ -775,8 +775,8 @@
             },
             {
                 id: 3,
-                title: 'Apple Watch Series 8',
-                price: 349,
+                title: 'Goa',
+                price: 7000,
                 oldPrice: 399,
                 rating: 5,
                 reviews: 214,
