@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Maha Super Collection — Premium Picks</h1>
+                <h1>Maha Pan India Travels</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
@@ -582,7 +582,7 @@
         <!-- Categories -->
         <section class="section container" aria-labelledby="cat-title">
             <div class="title" id="cat-title">
-                <h2 class="section-title">Shop by Category</h2>
+                <h2 class="section-title">Shop by REDINGTON LIMITED</h2>
                 <p class="muted">Browse through our wide range of products across curated categories.</p>
             </div>
 
@@ -786,7 +786,7 @@
             },
             {
                 id: 4,
-                title: 'Nike Air Max 270',
+                title: 'Hyderabad ',
                 price: 150,
                 rating: 4,
                 reviews: 53,
@@ -795,7 +795,7 @@
             },
             {
                 id: 5,
-                title: 'Sony A7 IV Camera',
+                title: 'Tirupati',
                 price: 2499,
                 rating: 5,
                 reviews: 42,
@@ -813,7 +813,7 @@
             },
             {
                 id: 7,
-                title: 'Travel Backpack',
+                title: 'GOA',
                 price: 79,
                 oldPrice: 99,
                 rating: 4,
@@ -823,7 +823,7 @@
             },
             {
                 id: 8,
-                title: 'Sony WH-1000XM5',
+                title: 'Delhi',
                 price: 399,
                 rating: 5,
                 reviews: 156,
